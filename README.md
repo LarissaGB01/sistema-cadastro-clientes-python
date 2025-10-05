@@ -1,6 +1,13 @@
 # 📋 Projeto - API de Cadastro de Clientes
 Este projeto é uma API REST desenvolvida em Python para cadastro de clientes.
 
+Este projeto foi desenvolvido como parte de uma pesquisa sobre o **impacto da linguagem de programação no tempo de resposta de uma API**. Para mais detalhes sobre o estudo e seus resultados, acesse o [relatório completo em PDF](./docs/Larissa%20Galvão%20Barcelos%20-%20TCC.pdf).
+
+Também estão disponíveis os repositórios equivalentes desenvolvidos em **Java** e **Typescript**, para fins de comparação:
+
+- [sistema-cadastro-clientes-typescript](https://github.com/LarissaGB01/sistema-cadastro-clientes-typescript)  
+- [sistema-cadastro-clientes-python](https://github.com/LarissaGB01/sistema-cadastro-clientes-python)
+
 ## 🚀 Tecnologias utilizadas
 - FastAPI — framework web assíncrono
 - SQLAlchemy — ORM para integração com MySQL
