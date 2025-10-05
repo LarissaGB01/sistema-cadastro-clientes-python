@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de uma pesquisa sobre o **impacto da li
 Também estão disponíveis os repositórios equivalentes desenvolvidos em **Java** e **Typescript**, para fins de comparação:
 
 - [sistema-cadastro-clientes-typescript](https://github.com/LarissaGB01/sistema-cadastro-clientes-typescript)  
-- [sistema-cadastro-clientes-python](https://github.com/LarissaGB01/sistema-cadastro-clientes-python)
+- [sistema-cadastro-clientes-java](https://github.com/LarissaGB01/sistema-cadastro-clientes-java)
 
 ## 🚀 Tecnologias utilizadas
 - FastAPI — framework web assíncrono
